@@ -34,3 +34,16 @@ img {
     max-width: 100%;
     height: auto;
 }
+
+.title {
+ margin-top: 32px;
+}
+
+.description {
+    margin-top: 12px;
+    font-weight: bold;
+
+    &__link {
+        color: black;
+    }
+}
